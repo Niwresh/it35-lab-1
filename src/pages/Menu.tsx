@@ -60,7 +60,7 @@ import {
                 
                 <IonRouterOutlet id="main">
                     <Route exact path="/it35-lab/app/home" component={Home} />
-                    <Route exact path="/it35-lab/app/home/details" component={Details} />
+                    <Route exact path="/it35-lab/app/details" component={Details} />
                     <Route exact path="/it35-lab/app/about" component={About} />
   
                     <Route exact path="/it35-lab/app">
